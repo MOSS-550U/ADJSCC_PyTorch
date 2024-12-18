@@ -1,4 +1,4 @@
-# DeepJSCC-f_PyTorch
+# BDJSCC_PyTorch
 
 | SNR (dB) | Test Loss       | Test PSNR         | Test SSIM         |
 |----------|-----------------|-------------------|-------------------|
