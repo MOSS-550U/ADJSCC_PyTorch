@@ -1,5 +1,6 @@
 # ADJSCC_PyTorch
 
-![Graph6](https://github.com/user-attachments/assets/840ed8be-e841-45c4-8719-9602f46a44c4)
+![Graph7](https://github.com/user-attachments/assets/6f1135c4-5be5-46a4-a084-50241b3ea87c)
 
 
+![Graph12](https://github.com/user-attachments/assets/77fbaa20-8409-44a1-b541-33d40efa29a0)
